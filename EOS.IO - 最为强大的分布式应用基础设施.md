@@ -19,14 +19,14 @@ EOS.IO现支持的操作系统如下：
 
 ## Resources
 
-1. [EOS.IO 主页](https://eos.io)
-2. [Documentation 文档](https://eosio.github.io/eos/)
-3. [Blog 博客](https://steemit.com/@eosio)
-4. [Community Telegram Group 社区电报群组](https://t.me/EOSProject)
-5. [Developer Telegram Group 开发者电报群组](https://t.me/joinchat/EaEnSUPktgfoI-XPfMYtcQ)
-6. [White Paper 白皮书](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md)
-7. [Roadmap](https://github.com/EOSIO/Documentation/blob/master/Roadmap.md)
-8. [Wiki](https://github.com/EOSIO/eos/wiki)
+1. [EOS.IO主页](https://eos.io)
+2. [相关文档](https://eosio.github.io/eos/)
+3. [博客](https://steemit.com/@eosio)
+4. [社区电报群](https://t.me/EOSProject)
+5. [开发者电报群](https://t.me/joinchat/EaEnSUPktgfoI-XPfMYtcQ)
+6. [白皮书](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md)
+7. [路线图](https://github.com/EOSIO/Documentation/blob/master/Roadmap.md)
+8. [维基](https://github.com/EOSIO/eos/wiki)
 
 ## 目录
 
