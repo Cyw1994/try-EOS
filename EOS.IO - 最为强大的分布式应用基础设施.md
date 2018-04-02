@@ -42,7 +42,7 @@ EOS.IO现支持的操作系统如下：
 3. [创建EOS项目并运行节点](#runanode)
    1. [获取代码](#getcode)
    2. [由源代码创建](#build)
-   3. [测试网络下创建并发布一个单节点](#singlenode)
+   3. [创建并启动单节点测试网络](#singlenode)
    4. [剩余步骤](#nextsteps)
 
 4. [范例： Currency 智能合约演练](#smartcontracts)
@@ -135,7 +135,7 @@ cd build
 sudo make install
 ```
 
-现在你可以进行下一步了—— [测试网络下创造并发布一个单节点](#singlenode)
+现在你可以进行下一步了—— [创建并启动单节点测试网络](#singlenode)
 
 <a name="autoubuntupublic"></a>
 
@@ -180,7 +180,7 @@ cd build
 sudo make install
 ```
 
-现在你可以进行下一步了—— [测试网络下创建并发布一个单节点](#singlenode)
+现在你可以进行下一步了—— [创建并启动单节点测试网络](#singlenode)
 
 <a name="automacpublic"></a>
 
@@ -240,7 +240,7 @@ EOS附带了大量的可执行程序，您可在`~/eos/build/programs`目录下�
 
 <a name="singlenode"></a>
 
-### 测试网络下创造并发布一个单节点
+### 创建并启动单节点测试网络
 
 成功创建项目后，`nodeos`二进制文件将出现在`build/programs/nodeos` 文件夹中。可以通过`build`文件夹内的`programs/nodeos/nodeos`直接运行`nodeos`。这里的指令假设条件是在`build`目录下执行。
 
